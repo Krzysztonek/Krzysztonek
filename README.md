@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krzysztonek
 - 👀 I’m interested in IoT
-- 🌱 I’m currently learning Home Assistant
-- 💞️ I’m looking for collaboration with HA users
+- 🌱 Currently exploring Home Assistant
+- 💞️ Looking for collaboration with HA users
 - 📫 How to reach me ...
 
 <!---
