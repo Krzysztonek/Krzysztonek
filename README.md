@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Krzysztonek
-- 👀 I’m interested in IoT
-- 🌱 Currently exploring Home Assistant
+  
+- 👀 I’m interested in IoT technologies in common
+  
+- 🌱 Currently exploring Home Assistant, even trying to write some own HACS repos
+  
 - 💞️ Looking for collaboration with HA users
-- 📫 How to reach me ...
+  
+- 📫 How to reach me? Just post a message...
 
 <!---
 Krzysztonek/Krzysztonek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
