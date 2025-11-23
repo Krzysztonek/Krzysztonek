@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krzysztonek
   
-- 👀 I’m interested in IoT technologies in common
+- 👀 IoT technologies in common
   
 - 🌱 Currently exploring Home Assistant, even trying to write some own HACS repos
   
